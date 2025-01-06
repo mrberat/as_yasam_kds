@@ -55,19 +55,23 @@ Giriş sayfası
 
 Anasayfa
 
-![resim](https://github.com/user-attachments/assets/6cf58b19-618b-4a38-a833-5dfd7e92312d)
+![resim](https://github.com/user-attachments/assets/575fe161-7d7e-4849-a92d-0ce3aff830de)
+
 
 Şubeler sayfası
 
-![resim](https://github.com/user-attachments/assets/0b98ca1b-1787-4a50-963b-bc652cec0fbd)
+![resim](https://github.com/user-attachments/assets/546421cb-56b1-4e7d-88b6-3028a9993e8f)
+
 
 Analizler sayfası (ahp süreci)
 
-![resim](https://github.com/user-attachments/assets/800034dc-16b8-4bda-9d73-754c15a5f5b0)
+![resim](https://github.com/user-attachments/assets/58aebf97-7b40-41ff-a912-f88236373cf3)
+
 
 Grafikler Sayfası
 
-![resim](https://github.com/user-attachments/assets/5bfe352e-120d-4439-bb44-3c00593579d8)
+![resim](https://github.com/user-attachments/assets/ba5a0982-682d-4581-86fa-5d80e2220b74)
+
 
 
 
