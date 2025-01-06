@@ -43,11 +43,13 @@ o	Mevcut bayilerin yoğunlaştığı bölgelerde ekonomik doyumun sağlandığı
 •	PhpMyAdmin
 •	Chatgpt
 •	Canva
+
+
 Veritabanı tasarımı
- ![resim](https://github.com/user-attachments/assets/ef552aeb-5073-4f71-a2b6-836ecc2121f1)
+![resim](https://github.com/user-attachments/assets/fdc59f6a-67f4-495e-959d-2c85dc54f51a)
 
 Giriş sayfası
-![resim](https://github.com/user-attachments/assets/fdc59f6a-67f4-495e-959d-2c85dc54f51a)
+![resim](https://github.com/user-attachments/assets/ef552aeb-5073-4f71-a2b6-836ecc2121f1)
 
 Anasayfa
 ![resim](https://github.com/user-attachments/assets/6cf58b19-618b-4a38-a833-5dfd7e92312d)
