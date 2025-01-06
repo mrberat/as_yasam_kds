@@ -46,21 +46,27 @@ o	Mevcut bayilerin yoğunlaştığı bölgelerde ekonomik doyumun sağlandığı
 
 
 Veritabanı tasarımı
+
 ![resim](https://github.com/user-attachments/assets/fdc59f6a-67f4-495e-959d-2c85dc54f51a)
 
 Giriş sayfası
+
 ![resim](https://github.com/user-attachments/assets/ef552aeb-5073-4f71-a2b6-836ecc2121f1)
 
 Anasayfa
+
 ![resim](https://github.com/user-attachments/assets/6cf58b19-618b-4a38-a833-5dfd7e92312d)
 
 Şubeler sayfası
+
 ![resim](https://github.com/user-attachments/assets/0b98ca1b-1787-4a50-963b-bc652cec0fbd)
 
 Analizler sayfası (ahp süreci)
+
 ![resim](https://github.com/user-attachments/assets/800034dc-16b8-4bda-9d73-754c15a5f5b0)
 
 Grafikler Sayfası
+
 ![resim](https://github.com/user-attachments/assets/5bfe352e-120d-4439-bb44-3c00593579d8)
 
 
